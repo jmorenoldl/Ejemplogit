@@ -1,8 +1,11 @@
 package javier;
 
 public class Ejemplo {
-
+	
 	public static void main(String[] args) {
-		System.out.println("holaa");
+		
+		javier.FUtil.fExiste("ejemplo");
+		
+		System.out.println("hola");
 	}
 }
