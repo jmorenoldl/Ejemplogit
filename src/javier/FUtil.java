@@ -19,4 +19,9 @@ public class FUtil {
 		return existe;
 		}
 	
+	
+	public static void probar() {
+		System.out.println("El metodo se ha ejecutado correctamente");
+	}
+	
 }
