@@ -4,6 +4,11 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
+/**
+ * 
+ * @author Javier Moreno 
+ *
+ */
 public class FUtil {
 
 	public static boolean fExiste(String filename) {
@@ -21,7 +26,7 @@ public class FUtil {
 	
 	
 	public static void probar() {
-		System.out.println("El metodo se ha ejecutado correctamente");
+		System.out.println("El metodo se ha ejecutado correctamente"); 
 	}
 	
 }
