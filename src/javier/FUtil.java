@@ -26,7 +26,8 @@ public class FUtil {
 	
 	
 	public static void probar() {
-		System.out.println("El metodo se ha ejecutado correctamente"); 
+		System.out.println("El metodo se ha ejecutado correctamente");
+		System.out.println("paso 23");
 	}
 	
 }
